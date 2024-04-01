@@ -1,3 +1,5 @@
+Project template for Rprojects
+
 Project name
   --------
 
