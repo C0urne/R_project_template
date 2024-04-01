@@ -15,7 +15,7 @@ Project name
     │   └── tables         <- Tabular outputs, such as CSV or Excel files.
     ├── reports
     │   ├── paper          <- Written reports or documentation.
-    │   └── presentation   <- Presentation files, PPT, PDF, RMarkdown/ QuartoMarkdown, or Tex.
+    │   └── presentation   <- Presentation files, PPT, PDF, RMarkdown, or Tex.
     └── resources          <- external resources related to the project, such as literature, articles, or relevant documents.
 
 
